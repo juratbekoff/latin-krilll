@@ -1,12 +1,26 @@
 {
-  "name": "latinkrill",
+  "name": "latin-krill",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is for the converting texts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juratbekoff/latin-krilll.git"
+  },
+  "keywords": [
+    "latin-krill"
+  ],
+  "author": "Juratbek Xudayberganov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juratbekoff/latin-krilll/issues"
+  },
+  "homepage": "https://github.com/juratbekoff/latin-krilll#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "typescript": "^5.1.6"
+  }
 }
